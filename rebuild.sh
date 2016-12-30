@@ -1,0 +1,1 @@
+/home/russell/arm-projects/photon/firmware/main/quick_build.sh
